@@ -15798,7 +15798,7 @@
 			)
 		)
 	)
-	(gr_text "PA4"
+	(gr_text "PA3"
 		(at 68.2 79.8 90)
 		(layer "F.SilkS")
 		(uuid "3595ee21-e5ef-4481-8916-ad7bd2d5b80f")
@@ -15820,7 +15820,7 @@
 			)
 		)
 	)
-	(gr_text "PA5"
+	(gr_text "PA4"
 		(at 70.65 79.8 90)
 		(layer "F.SilkS")
 		(uuid "706b7b3f-1457-4da2-a5d3-452c2695babe")
@@ -15842,7 +15842,7 @@
 			)
 		)
 	)
-	(gr_text "PA6"
+	(gr_text "PA5"
 		(at 73.2 79.8 90)
 		(layer "F.SilkS")
 		(uuid "56a13f3c-5846-4b32-8819-356d3c036b4a")
